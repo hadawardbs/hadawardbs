@@ -1,4 +1,4 @@
-## 👋 Salve, eu sou o Eduardo Brandão!
+## 👋 Salve! Eu sou o Eduardo Brandão
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hadawardbs&show_icons=true&theme=radical&count_private=true"/>
